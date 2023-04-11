@@ -9,7 +9,8 @@ const opts = {
     password: process.env.TWITCH_OAUTH_TOKEN
   },
   channels: [
-    'dampe_bot'
+    'dampe_bot',
+    'khufufoofoo'
   ]
 };
 
